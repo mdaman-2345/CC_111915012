@@ -9,9 +9,9 @@
 <body>
 	<div align="center">
 	  <h1>Employee sign up Form</h1>
-	  <h2>Enter Your credentials</h2>
+	  
 	  <form action="register" method="post">
-	   <table style="color:red; margin:15px">
+	   <table style="color:red; margin:15 px">
 	    <tr>
 	     <td>FirstName</td>
 	     <td><input type="text" style=" margin:15px"" name=first" /></td>
@@ -29,7 +29,7 @@
 	     <td><input type="text" style=" margin:15px" name="birth" /></td>
 	    </tr>
 	    <tr>
-	     <td>Contact</td>
+	     <td>Phone</td>
 	     <td><input type="text" style=" margin:15px" name="contact" /></td>
 	    </tr>
 	    <tr>
